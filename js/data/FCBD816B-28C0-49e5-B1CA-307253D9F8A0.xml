@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.1", "1", "Object Oriented Modeling", "EARoot/EA1/EA1.html", "34.png", "", "", "{E3759612-74CD-4d04-A2A2-A7EBBC631473}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Process modeling", "EARoot/EA2/EA438.html", "34.png", "", "", "{360F4F18-512A-4fb7-9469-65E55ADD7654}", "Package");

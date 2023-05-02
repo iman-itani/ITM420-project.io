@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.1.6:1", "", "use_case_diagram", "EARoot/EA1/EA6/EA393.html", "180.png", "66", "0", "", "Use Case diagram0","{40C30C80-4885-4e43-B081-84A385A39096}");
+tocTab[tocTab.length] = new Array("0.1.6:2", "", ": Extract Data<br />Ref # 1", "EARoot/EA1/EA6/EA396.html", "7.png", "E820", "0", "", "UseCase0","{BB0722E1-DD18-45aa-AF2E-FF18E3EFB2B5}");
+tocTab[tocTab.length] = new Array("0.1.6:3", "", ": Extract Data<br />Ref # 1", "EARoot/EA1/EA6/EA397.html", "7.png", "E819", "0", "", "UseCase0","{82F44B62-3DD1-4967-8E71-4C3893010410}");
+tocTab[tocTab.length] = new Array("0.1.6:4", "", ": Extract Data<br />Ref # 1", "EARoot/EA1/EA6/EA398.html", "7.png", "E818", "0", "", "UseCase0","{A67D2F15-0B62-4e2b-8056-7C50A32219C0}");
+tocTab[tocTab.length] = new Array("0.1.6:5", "", "balance sheet", "EARoot/EA1/EA6/EA400.html", "7.png", "E675", "0", "", "UseCase0","{8534F324-4B05-42ec-A67A-042E20F6B571}");
+tocTab[tocTab.length] = new Array("0.1.6:6", "", "daily report", "EARoot/EA1/EA6/EA402.html", "7.png", "E700", "0", "", "UseCase0","{BAD5BDA4-D1E1-44b7-9D8F-0BEC3E757BA0}");
+tocTab[tocTab.length] = new Array("0.1.6:7", "", "Net Income statement", "EARoot/EA1/EA6/EA404.html", "7.png", "E676", "0", "", "UseCase0","{C1D87D45-9A1D-4ec1-B3E8-B4398300B3CC}");
+tocTab[tocTab.length] = new Array("0.1.6:8", "", "payroll for contractual employees", "EARoot/EA1/EA6/EA406.html", "7.png", "E698", "0", "", "UseCase0","{8BE8766A-4821-41de-A1B9-BC51F102EF82}");
+tocTab[tocTab.length] = new Array("0.1.6:9", "", "payroll for doctor", "EARoot/EA1/EA6/EA407.html", "7.png", "E699", "0", "", "UseCase0","{7EDD3371-7BE9-491b-ABB9-25825F019B8B}");
+tocTab[tocTab.length] = new Array("0.1.6.1", "1", "Actors", "EARoot/EA1/EA6/EA1/EA411.html", "4.png", "", "", "{E0FAB335-5221-4dfc-9DE0-2920144DA1C4}", "Package");
+tocTab[tocTab.length] = new Array("0.1.6.2", "1", "Use Cases", "EARoot/EA1/EA6/EA2/EA420.html", "4.png", "", "", "{F79ACEE8-C58A-43c1-9791-4324359AA52C}", "Package");

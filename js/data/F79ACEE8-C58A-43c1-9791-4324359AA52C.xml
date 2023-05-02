@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("0.1.6.2:1", "", "Add doctor", "EARoot/EA1/EA6/EA2/EA421.html", "7.png", "E683", "0", "", "UseCase0","{E998C639-1A14-4c01-BBD1-9C7C6E53DCDB}");
+tocTab[tocTab.length] = new Array("0.1.6.2:2", "", "Add service", "EARoot/EA1/EA6/EA2/EA422.html", "7.png", "E681", "0", "", "UseCase0","{83A18647-47A4-443d-BCA9-B55D80A94D4B}");
+tocTab[tocTab.length] = new Array("0.1.6.2:3", "", "Adjust a service", "EARoot/EA1/EA6/EA2/EA423.html", "7.png", "E682", "0", "", "UseCase0","{0ED21EE3-DA58-40a3-BA9A-D94401E3AA58}");
+tocTab[tocTab.length] = new Array("0.1.6.2:4", "", "daily reports", "EARoot/EA1/EA6/EA2/EA424.html", "7.png", "E688", "0", "", "UseCase0","{F1ACB2E9-D69C-4645-AB72-1928C84F7586}");
+tocTab[tocTab.length] = new Array("0.1.6.2:5", "", "financial reports", "EARoot/EA1/EA6/EA2/EA425.html", "7.png", "E689", "0", "", "UseCase0","{2363D52D-13D4-4668-82E3-BE8BC86C9D65}");
+tocTab[tocTab.length] = new Array("0.1.6.2:6", "", "general reports", "EARoot/EA1/EA6/EA2/EA426.html", "7.png", "E687", "0", "", "UseCase0","{FC65D6E1-B9C2-4f32-89EA-384CC439E1F7}");
+tocTab[tocTab.length] = new Array("0.1.6.2:7", "", "issue invoice", "EARoot/EA1/EA6/EA2/EA427.html", "7.png", "E693", "0", "", "UseCase0","{D4D4B048-C6F1-4fa6-A68C-186F3524E4A6}");
+tocTab[tocTab.length] = new Array("0.1.6.2:8", "", "issue payroll ", "EARoot/EA1/EA6/EA2/EA428.html", "7.png", "E695", "0", "", "UseCase0","{1BFEDD59-EB7B-4d2d-9758-CF796186617C}");
+tocTab[tocTab.length] = new Array("0.1.6.2:9", "", "issue receipt", "EARoot/EA1/EA6/EA2/EA429.html", "7.png", "E692", "0", "", "UseCase0","{8076DCB4-C97F-4127-9CF2-7C85A43BF4E3}");
+tocTab[tocTab.length] = new Array("0.1.6.2:10", "", "issue receipt voucher", "EARoot/EA1/EA6/EA2/EA430.html", "7.png", "E694", "0", "", "UseCase0","{8B119762-2826-4ca2-8FBD-737B25F0C380}");
+tocTab[tocTab.length] = new Array("0.1.6.2:11", "", "log in", "EARoot/EA1/EA6/EA2/EA431.html", "7.png", "E697", "0", "", "UseCase0","{13356098-A268-4f14-922F-88F261D7C971}");
+tocTab[tocTab.length] = new Array("0.1.6.2:12", "", "Remove doctor", "EARoot/EA1/EA6/EA2/EA432.html", "7.png", "E684", "0", "", "UseCase0","{64A479C1-CBE8-43da-82C8-2594EAA8FAE8}");
+tocTab[tocTab.length] = new Array("0.1.6.2:13", "", "Remove service", "EARoot/EA1/EA6/EA2/EA433.html", "7.png", "E685", "0", "", "UseCase0","{00446EFC-E366-436a-A843-F75B03642792}");
+tocTab[tocTab.length] = new Array("0.1.6.2:14", "", "summary report", "EARoot/EA1/EA6/EA2/EA434.html", "7.png", "E690", "0", "", "UseCase0","{B1AA3435-88D9-491f-A0D8-DA9CAFB6DF63}");
+tocTab[tocTab.length] = new Array("0.1.6.2:15", "", "Extract Data<br />Ref # 1", "EARoot/EA1/EA6/EA2/EA435.html", "7.png", "E673", "0", "", "UseCase0","{A9A41FA1-2481-4d78-9412-9D5B9F74A047}");
+tocTab[tocTab.length] = new Array("0.1.6.2:16", "", "Modify record", "EARoot/EA1/EA6/EA2/EA436.html", "7.png", "E671", "0", "", "UseCase0","{96DE76BD-CFAE-4dd9-A889-6C51B9A9E9DF}");
+tocTab[tocTab.length] = new Array("0.1.6.2:17", "", "Enter record", "EARoot/EA1/EA6/EA2/EA437.html", "7.png", "E672", "0", "", "UseCase0","{27973F29-C721-4d54-94C2-47B53671D0FB}");
