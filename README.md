@@ -1,8 +1,8 @@
 # ITM420 project: System Analysis and Design 
 
 ## Scope
-The purpose of this project is to analyze and design a system ready to be implemented at IMC in order to 
-automate the process of Data Entry at the accounting and finance department. 
+The purpose of this project is to analyze and design an automated solution ready to be implemented at IMC in order to 
+enhance the process of Data Entry at the accounting and finance department by increasing its accuracy. 
 
 ## Company Background
 The Irshad Medical Center (IMC) is a primary healthcare center in the Sahel Al-Kaytaa region in Akkar, Lebanon, established in 2010. 
