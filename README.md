@@ -4,7 +4,7 @@
 The purpose of this project is to analyze and design a system ready to be implemented at IMC in order to 
 automate the process of Data Entry at the accounting and finance department. 
 
-## Background
+## Company Background
 The Irshad Medical Center (IMC) is a primary healthcare center in the Sahel Al-Kaytaa region in Akkar, Lebanon, established in 2010. 
 It provides essential medical services to the local populatio is accredited by Accreditation Canada and the Ministry of Public Health. 
 
